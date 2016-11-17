@@ -1,5 +1,4 @@
-
-# Angular2 Electron Starter (with angular cli)
+# Angular2 Electron Mind map project
 
 ```bash
 
